@@ -1,6 +1,6 @@
 <!-- ### Hi there -->
 
-![image](https://www.nilicule.com/images/github.jpg)
+![image](https://nilicule.com/images/github_header.png)
 
 <!--
 **nilicule/nilicule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
